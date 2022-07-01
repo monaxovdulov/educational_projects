@@ -9,7 +9,7 @@
 
 1. типы данных, переменные (скоро залью)
 
-[2. ветвление, циклы](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures)
+  [2. ветвление, циклы](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures)
 
 
 **Уровень средний**
