@@ -11,7 +11,7 @@
 
   [2. ветвление, циклы](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures)
 
-
+3. Цикл for и анаграмм
 **Уровень средний**
 
 [Викторина на tkinter](https://github.com/monaxovdulov/quize_tk/blob/main/main.py "Средний уровень")
