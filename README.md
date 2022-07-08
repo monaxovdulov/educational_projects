@@ -11,7 +11,7 @@
 
   [2. ветвление, циклы](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures)
 
-  [3. цикл for, строки, кортежи](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures)
+  [3. цикл for, строки, кортежи]([https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/2.%20Control%20Structures](https://github.com/monaxovdulov/LearnPython/tree/main/edu_projects/easy/3.%20Enumeration%20of%20sequences))
 
 **Уровень средний**
 
