@@ -1,5 +1,15 @@
 # educational_projects
 
+Python
+
+html 
+
+css
+
+js
+
+c
+
 инструкция где и как можно запустить проекты (В разработке)
 
 
